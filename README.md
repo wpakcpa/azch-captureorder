@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/wpak0466/9aab90d4-49a9-449f-92bd-ded43f73eb64/facc7b49-69d0-4b1f-8929-7dc1dd8a615e/_apis/work/boardbadge/aeba7941-5904-42c3-89d6-30e97b3a5d29)](https://dev.azure.com/wpak0466/9aab90d4-49a9-449f-92bd-ded43f73eb64/_boards/board/t/facc7b49-69d0-4b1f-8929-7dc1dd8a615e/Microsoft.RequirementCategory)
 
 # CaptureOrder
 
